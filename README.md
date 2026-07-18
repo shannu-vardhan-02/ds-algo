@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
+| [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
@@ -46,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +71,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

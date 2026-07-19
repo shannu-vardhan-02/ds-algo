@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,16 @@
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 | [1765-map-of-highest-peak](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1765-map-of-highest-peak) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

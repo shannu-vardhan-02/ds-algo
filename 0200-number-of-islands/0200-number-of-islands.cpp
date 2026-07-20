@@ -1,6 +1,11 @@
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
+// traverse the matrix each cell
+// found land cell -> islands++
+//               | -> flood fill this land cell and mark all connected land 
+//                    cells as water.
+// ------------------------------------------------------------------
         int m = grid.size();
         int n = grid[0].size();
 

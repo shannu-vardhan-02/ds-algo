@@ -62,15 +62,18 @@
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1765-map-of-highest-peak) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -101,6 +104,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |

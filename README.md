@@ -64,6 +64,7 @@
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1765-map-of-highest-peak) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

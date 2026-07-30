@@ -31,6 +31,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
@@ -39,6 +40,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0547-number-of-provinces) |
@@ -50,6 +52,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1020-number-of-enclaves) |
@@ -62,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |

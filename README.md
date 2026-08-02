@@ -16,10 +16,12 @@
 | ------- |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3536-maximum-product-of-two-digits) |
@@ -73,6 +75,7 @@
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1260-shift-2d-grid) |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

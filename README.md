@@ -73,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0733-flood-fill) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->

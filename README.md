@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
@@ -88,11 +89,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |

@@ -86,6 +86,7 @@
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -172,6 +173,7 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Game Theory
 |  |
 | ------- |

@@ -89,6 +89,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

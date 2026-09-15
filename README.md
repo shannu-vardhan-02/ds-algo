@@ -75,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
@@ -182,6 +184,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3718-smallest-missing-multiple-of-k) |

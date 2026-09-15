@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0877-stone-game) |
 ## Math
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |

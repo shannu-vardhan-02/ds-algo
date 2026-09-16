@@ -76,6 +76,7 @@
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,5 +204,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

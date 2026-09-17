@@ -71,6 +71,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -158,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |

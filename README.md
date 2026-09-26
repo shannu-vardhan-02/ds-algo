@@ -8,6 +8,7 @@
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -89,6 +90,7 @@
 | [1260-shift-2d-grid](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2592-maximize-greatness-of-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shannu-vardhan-02/ds-algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3718-smallest-missing-multiple-of-k) |

@@ -8,6 +8,7 @@
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/shannu-vardhan-02/ds-algo/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

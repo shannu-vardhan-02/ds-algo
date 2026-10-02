@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -17,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0542-01-matrix) |
@@ -221,6 +223,11 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

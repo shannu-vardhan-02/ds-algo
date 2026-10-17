@@ -84,6 +84,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -194,6 +196,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -235,4 +238,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shannu-vardhan-02/ds-algo/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
